@@ -1,0 +1,25 @@
+# ninja log v5
+54	962	7639231504083436	_deps/glfw3-build/src/CMakeFiles/glfw.dir/platform.c.obj	a7500961c159e3a3
+133	977	7639231504093407	_deps/glfw3-build/src/CMakeFiles/glfw.dir/win32_module.c.obj	1e9d51570dd32cf2
+97	989	7639231504103517	_deps/glfw3-build/src/CMakeFiles/glfw.dir/null_init.c.obj	dbdaba1853d6752d
+115	1003	7639231504159276	_deps/glfw3-build/src/CMakeFiles/glfw.dir/null_window.c.obj	681e6010789678e9
+38	1014	7639231504284999	_deps/glfw3-build/src/CMakeFiles/glfw.dir/input.c.obj	14587b3fb4001903
+31	1024	7639231504340235	_deps/glfw3-build/src/CMakeFiles/glfw.dir/init.c.obj	9b15b23aa797411f
+88	1026	7639231504390410	_deps/glfw3-build/src/CMakeFiles/glfw.dir/osmesa_context.c.obj	189734a1cc407458
+150	1028	7639231504551433	_deps/glfw3-build/src/CMakeFiles/glfw.dir/win32_thread.c.obj	e910a7eadd5c9ce9
+71	1029	7639231504641836	_deps/glfw3-build/src/CMakeFiles/glfw.dir/window.c.obj	7a39ac064db26fdc
+62	1030	7639231504631837	_deps/glfw3-build/src/CMakeFiles/glfw.dir/vulkan.c.obj	a7169d9627829169
+24	1031	7639231504687305	_deps/glfw3-build/src/CMakeFiles/glfw.dir/context.c.obj	5cf796efc25ae38d
+124	1113	7639231505551751	_deps/glfw3-build/src/CMakeFiles/glfw.dir/null_joystick.c.obj	e7173d2194b3b2d9
+105	1114	7639231505611693	_deps/glfw3-build/src/CMakeFiles/glfw.dir/null_monitor.c.obj	87b6c8a959c2b76a
+159	1115	7639231505637552	_deps/glfw3-build/src/CMakeFiles/glfw.dir/win32_init.c.obj	63a38068fb3ecf5e
+46	1125	7639231505758192	_deps/glfw3-build/src/CMakeFiles/glfw.dir/monitor.c.obj	42d77bfd53bf13cf
+142	1152	7639231505949065	_deps/glfw3-build/src/CMakeFiles/glfw.dir/win32_time.c.obj	cae1fe1b81500c63
+80	1180	7639231506125065	_deps/glfw3-build/src/CMakeFiles/glfw.dir/egl_context.c.obj	c519812dcc9c9667
+1004	1579	7639231510263764	_deps/glfw3-build/src/CMakeFiles/glfw.dir/wgl_context.c.obj	1f7d113b9cafc4e2
+978	1589	7639231510389475	_deps/glfw3-build/src/CMakeFiles/glfw.dir/win32_monitor.c.obj	afc647b6a7fc710d
+965	1599	7639231510485336	_deps/glfw3-build/src/CMakeFiles/glfw.dir/win32_joystick.c.obj	3b701a22cdb4d1e0
+989	1621	7639231510731523	_deps/glfw3-build/src/CMakeFiles/glfw.dir/win32_window.c.obj	6f7a62419f03b48c
+1621	1730	7639231511780878	_deps/glfw3-build/src/glfw3.lib	e6730e903409c67
+1015	2901	7639231523524507	_deps/glm-build/glm/CMakeFiles/glm.dir/detail/glm.cpp.obj	b6cd86e5850a94b9
+39	113	7639231855477316	_deps/glm-build/glm/glm.lib	44d6ec6cae5213d8
